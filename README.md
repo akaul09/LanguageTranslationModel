@@ -23,14 +23,12 @@ Make sure you have the latest version of python installed, with a IDE capable of
 Each code block can be run in sequential order, and the model should work. Training time may vary depending on dataset size and number of epochs.
 
 ## DATA
-Data is stored in our google drive.
-Data Set:
-https://drive.google.com/drive/folders/1MdAk3TV6AUvFWj4Au4iGaWYlh0UdXlBj
+Data is stored in the DATA folder.
 
 | **Column**       | **Type**     | **Description** |
 |--------------|-----------|------------|
-| en | string  | An English word or sentence        |
-| fr | string  | The French translation of the English word or sentence       |
+| English words/sentences | string  | An English word or sentence        |
+| French words/sentences | string  | The French translation of the English word or sentence       |
 
 Data was split into a training set and testing set for a total of 35000 rows. The training set contained 25000 rows and was used to train the model. The testing set contained 10000 rows and was used to test the results of the model.
 
