@@ -23,7 +23,7 @@ Make sure you have the latest version of python installed, with a IDE capable of
 Each code block can be run in sequential order, and the model should work. Training time may vary depending on dataset size and number of epochs.
 
 ## DATA
-Data is stored in the DATA folder.
+Data (eng_-french.csv) is stored in the DATA folder.
 
 | **Column**       | **Type**     | **Description** |
 |--------------|-----------|------------|
