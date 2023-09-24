@@ -37,8 +37,8 @@ Data was split into a training set and testing set for a total of 35000 rows. Th
 ## FIGURES
 | **Figure**       | **Description**     | **Takeaways** |
 |--------------|-----------|------------|
-| String Length Frequency by Language | DESCRIPTION HERE  |   TAKEAWAYS HERE   |
-| Distribution of String Length by Language | DESCRIPTION HERE  |   TAKEAWAYS HERE   |
+| String Length Frequency by Language | Bar chart displaying the frequencies of string length in phrases grouped by language | There are significantly more shorter and mid-sized English phrases than French phrases and there are significantly more longer French phrases than English phrases. There are no English phrases in our dataset with 25 or more characters, but there are a notable amount of French phrases.   |
+| Distribution of String Length by Language | Boxplots displaying the distribution of string length by language  |   French phrases have a slightly higher median length (at around 21 characters) than English phrases (at around 17 characters). The French phrases also seem to have a slightly wider distribution in string length (i.e. longer phrases) than English phrases, as its interquartile range seems to be larger and its maximum length is also higher. |
 
 ## REFERENCES
 [1]	“What are the Romance Languages? | Romance Languages,” www.rom.uga.edu. https://www.rom.uga.edu/what-are-romance-languages
