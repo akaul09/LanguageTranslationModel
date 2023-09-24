@@ -37,10 +37,8 @@ Data was split into a training set and testing set for a total of 35000 rows. Th
 ## FIGURES
 | **Figure**       | **Description**     | **Takeaways** |
 |--------------|-----------|------------|
-|  |   |      |
-|  |   |      |
-
-# TBD by Ani
+| String Length Frequency by Language | DESCRIPTION HERE  |   TAKEAWAYS HERE   |
+| Distribution of String Length by Language | DESCRIPTION HERE  |   TAKEAWAYS HERE   |
 
 ## REFERENCES
 [1]	“What are the Romance Languages? | Romance Languages,” www.rom.uga.edu. https://www.rom.uga.edu/what-are-romance-languages
