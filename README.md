@@ -3,6 +3,8 @@ Utilizing a BERT model to create a Language Translation model for French and Eng
 ## Contents
 SRC folder - containing source code for our EDA and model.
 
+DATA folder - containing our dataset.
+
 FIGURES folder - containing figures/visualizations of our data.
 
 LICENSE.md - MIT License.
@@ -70,7 +72,7 @@ Data was split into a training set and testing set for a total of 35000 rows. Th
 ### Acknowledgements
 Professor Alonzi
 
-Harsh (TA)
+Harsh Anand (TA)
 
 Group12
 
